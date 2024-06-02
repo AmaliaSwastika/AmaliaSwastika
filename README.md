@@ -26,14 +26,13 @@ I am Amalia Swastika Indra Prasetya
 ![Static Badge](https://img.shields.io/badge/Canva-l?style=for-the-badge&logo=canva&logoColor=white&labelColor=%2300C4CC&color=%2300C4CC)
 
 ## :bar_chart: Github Statistic
-
 <p align="center">
 <a href="https://github.com/AmaliaSwastika">
   <img height="225em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmaliaSwastika&theme=aura"/>
 </a><br/>
 <a href="https://github.com/AmaliaSwastika">
-   <img height="225em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmaliaSwastika&theme=aura"/>
    <img height="225em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmaliaSwastika&theme=aura"/>
+   <img height="225em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmaliaSwastika&theme=aura"/>
 </a><br/>
 <a href="https://github.com/AmaliaSwastika">
    <img height="225em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmaliaSwastika&theme=aura"/>
